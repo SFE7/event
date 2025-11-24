@@ -1,6 +1,15 @@
 {
   "infos": [
-        { nom: "ahmed", photo: a1, nbabonne: 18, isFollowing: false },
-        { nom: "yahia", photo: a2, nbabonne: 19, isFollowing: false },
+        {
+          nom: "ahmed",
+          photo: a1,
+          nbabonne: 18, 
+          isFollowing: false 
+        },
+        { 
+          nom: "yahia", 
+          photo: a2, 
+          nbabonne: 19, 
+          isFollowing: false },
       ],
 }
