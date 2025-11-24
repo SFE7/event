@@ -2,14 +2,27 @@
   "infos": [
         {
           nom: "ahmed",
-          photo: a1,
-          nbabonne: 18, 
-          isFollowing: false 
+          pnom:"trabelsi",
+          photo: "",
+          nbabonne: 27.3,
         },
         { 
-          nom: "yahia", 
-          photo: a2, 
-          nbabonne: 19, 
-          isFollowing: false },
+          nom: "yahia",
+          pnom:"chokri",
+          photo: "",
+          nbabonne: 41.2,
+        },
+        { 
+          nom: "omar",
+          pnom:"baa3ziz",
+          photo: "",
+          nbabonne: 91.2,
+        },
+        { 
+          nom: "adem",
+          pnom:"chaweli",
+          photo: "",
+          nbabonne: 31.4,
+        },
       ],
 }
