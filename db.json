@@ -4,28 +4,28 @@
       "id": 911,
       "nom": "ahmed",
       "pnom": "trabelsi",
-      "photo": "../assets/man.png",
+      "photo": "man.png",
       "nbabonne": 27.3
     },
     {
       "id": 912,
       "nom": "yahia",
       "pnom": "chokri",
-      "photo": "../assets/man.png",
+      "photo": "boy.png",
       "nbabonne": 41.2
     },
     {
       "id": 913,
       "nom": "omar",
       "pnom": "baa3ziz",
-      "photo": "",
+      "photo": "man.png",
       "nbabonne": 91.2
     },
     {
       "id": 914,
       "nom": "adem",
       "pnom": "chaweli",
-      "photo": "",
+      "photo": "man.png",
       "nbabonne": 31.4
     }
   ]
